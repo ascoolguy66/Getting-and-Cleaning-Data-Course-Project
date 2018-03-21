@@ -1,1 +1,2 @@
-# Getting-and-Cleaning-Data-Course-Project
+Getting-and-Cleaning-Data-Course-Project
+Run the Analysis R Script.
