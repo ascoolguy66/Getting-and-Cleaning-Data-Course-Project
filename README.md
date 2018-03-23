@@ -1,7 +1,7 @@
 Getting-and-Cleaning-Data-Course-Project:
 Human Activity Recognition Using Smartphones data cleaning and extraction
 
-'''r
+``` r
 # Run the Analysis R Script.
 # Getting and Cleaning Data Project John Hopkins Coursera
 # Author: Veer Abhimanyu Singh
