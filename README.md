@@ -1,5 +1,6 @@
-Getting-and-Cleaning-Data-Course-Project:
-Human Activity Recognition Using Smartphones data cleaning and extraction
+# Getting-and-Cleaning-Data-Course-Project:
+# Human Activity Recognition Using Smartphones data cleaning and extraction.
+Run "run_analysis.R " to perform getting and cleaning steps for the input data. The code cleans the tidy data which can be used for later analysis. Simply download the "run_analysis.R" code, open it on RStudio and run it. It should be able to perform cleaning of data.
 
 ``` r
 # Run the Analysis R Script.
